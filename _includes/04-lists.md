@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Yeshua
+2. His word
+3. His people
