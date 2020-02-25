@@ -1,3 +1,3 @@
-# <h1>Morris Buel</h1>
+# Morris Buel
 <br>
-<h3>Software Engineering Project List</h3>
+### Software Engineering Project List
