@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Cross of Christ][https://live.staticflickr.com/3137/5781615723_040829dd1e_b.jpg]
